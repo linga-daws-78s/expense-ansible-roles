@@ -1,4 +1,4 @@
-login_user: root
+#login_user: root
 login_host: db.lingaiah.online
 login_password: ExpenseApp@1
 
